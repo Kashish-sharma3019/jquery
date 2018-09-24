@@ -1,0 +1,192 @@
+.root{
+	font-size:16px;
+}
+.heading{
+	text-align:center;
+	height:2vw;
+	font-weight:bolder;
+	padding:3vw;
+	font-size:3rem;
+     font-style: italic;
+
+}
+.b1{
+	text-align:center;
+	height:5vw;
+	font-weight:bolder;
+	padding:3vw;
+	font-size:1.5rem;
+	margin-left:35vw;
+     
+
+}
+.paragraph{
+	margin-left:22vw;
+	margin-right:28vw;
+	border:1vw black double;
+	background-color:grey;
+	border-radius:5vh;
+}
+.b2{
+	text-align:center;
+	height:5vw;
+	font-weight:bolder;
+	padding:3vw;
+	font-size:1.5rem;
+	margin-left:35vw;
+     
+
+}
+.paragraph1{
+	margin-left:22vw;
+	margin-right:28vw;
+	border:1vw black double;
+	background-color:grey;
+	border-radius:5vh;
+}
+.b3{
+	text-align:center;
+	height:5vw;
+	font-weight:bolder;
+	padding:3vw;
+	font-size:1.5rem;
+	margin-left:35vw;
+     
+
+}
+.paragraph2{
+	margin-left:22vw;
+	margin-right:28vw;
+	border:1vw black double;
+	background-color:grey;
+	border-radius:5vh;
+}
+button:hover{
+
+background-color:gray;
+
+}
+ @media screen and (min-width: 480px) and (max-width: 1090px)
+
+{
+
+	.b1 {
+
+ 
+
+   font-size: 1.5rem;
+
+   margin-left:20vw;
+
+   font-weight: bold;
+    padding:6vw;
+
+
+
+}
+.paragraph{
+	margin-left:25vw;
+	margin-right:20vw;
+}
+
+.paragraph1{
+	margin-left:25vw;
+	margin-right:20vw;
+}
+.paragraph2{
+	margin-left:25vw;
+	margin-right:20vw;
+}
+.b2 {
+
+ 
+
+   font-size: 1.5rem;
+
+   margin-left:20vw;
+
+ font-weight: bold;
+ padding:6vw;
+
+
+
+}
+
+.b3 {
+
+ 
+
+   font-size: 1.5rem;
+
+   margin-left:20vw;
+
+ font-weight: bold;
+ padding:6vw;
+
+
+
+
+}
+
+}
+ @media screen and (max-width: 480px)
+
+{
+
+	.b1 {
+
+ 
+
+   font-size: 1rem;
+
+   margin-left:20vw;
+
+   font-weight: bold;
+
+
+
+}
+
+.b2 {
+
+ 
+
+   font-size: 1rem;
+
+   margin-left:20vw;
+
+ font-weight: bold;
+
+}
+
+.b3 {
+
+ 
+
+   font-size: 1rem;
+
+   margin-left:20vw;
+
+ font-weight: bold;
+
+}
+.paragraph{
+	margin-left:25vw;
+	margin-right:30vw;
+	padding:5vw;
+}
+.paragraph1{
+	margin-left:25vw;
+	margin-right:30vw;
+		padding:5vw;
+
+
+}
+.paragraph2{
+	margin-left:25vw;
+	margin-right:30vw;
+		padding:5vw;
+
+}
+
+}

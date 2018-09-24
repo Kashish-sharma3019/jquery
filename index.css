@@ -1,0 +1,123 @@
+.parent{
+
+	font-size: 16px;
+
+	display: flex;
+
+	flex-wrap: wrap;
+
+	width: 100%;
+
+}
+
+.l1{
+
+	
+
+	margin: 0;
+
+	padding: 1%;
+
+	width: 100%;
+
+	background-color:black;
+
+
+
+       border: 1px solid red;
+
+
+
+
+
+
+
+}
+
+.l2{
+
+
+
+	margin: 0;
+
+	padding: 1%;
+
+	
+
+	background-color:grey;
+
+
+       border: 1px solid red;
+
+
+
+
+
+
+
+}
+
+
+
+ a
+
+ {
+
+ 	padding: 18px 27px;
+
+ 	color:white;
+
+ 	text-decoration: none;
+ 	font-size:1.5rem;
+
+ }
+
+
+
+.l2{
+
+	display: inline;
+
+}
+
+.icon{
+
+	margin-left: 80%;
+
+}
+
+
+
+li:hover{
+
+
+
+	 background-color: LightGray;
+
+}
+
+ @media screen and (max-width: 480px) {
+
+ 	.l2{
+
+ 		display:none;
+
+
+
+ 	}
+
+ }
+
+  @media screen and (min-width: 480px) {
+
+ 	.icon{
+
+ 		display:none;}
+
+ 		.l3{
+
+ 			display: none;
+
+ 		}
+
+ }
